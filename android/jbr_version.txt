@@ -1,0 +1,3 @@
+openjdk version "17.0.11" 2024-04-16
+OpenJDK Runtime Environment (build 17.0.11+0--11852314)
+OpenJDK 64-Bit Server VM (build 17.0.11+0--11852314, mixed mode)

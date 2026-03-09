@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2AE7-2F90
+
+ Directory of C:\Program Files\Android\Android Studio\jbr
+
+09/15/2024  05:48 AM    <DIR>          .
+09/15/2024  05:48 AM    <DIR>          ..
+09/15/2024  05:48 AM    <DIR>          bin
+09/15/2024  05:48 AM    <DIR>          conf
+09/15/2024  05:48 AM    <DIR>          legal
+09/15/2024  05:48 AM    <DIR>          lib
+08/23/2024  05:20 AM             1,098 release
+               1 File(s)          1,098 bytes
+               6 Dir(s)  60,678,545,408 bytes free
