@@ -4,6 +4,15 @@
 
 ---
 
+## 🚀 Project Background & Portfolio Release
+This repository serves as the Public Portfolio Version of the SLT App.
+
+Developer Note: > The full development cycle of this project took place in a private environment, accumulating over 600+ commits of continuous building, testing, and optimization.
+
+This public version was specifically initialized to showcase the application's architecture and features for my professional portfolio, ensuring a clean and secure codebase by separating sensitive development history from the public release.
+
+---
+
 ## 🛠 Tech Stack & Architecture
 
 This project is built with a focus on **Scalability** and **Clean Code** principles:
@@ -11,9 +20,9 @@ This project is built with a focus on **Scalability** and **Clean Code** princip
 - **Framework & Language:** [Flutter] & [Dart]
 - **State Management:** [Bloc/Cubit]
 - **Architecture:** **MVVM** (Model-View-ViewModel) with
-- **Backend:** [Firebase](Authentication, Firestore Database, Remote Config, FCM).
+- **Backend:** [Firebase] (Authentication, Firestore Database, Remote Config, FCM).
 - **Dependency Injection:** To ensure modular and testable code.
-- **Design Patterns:** Factory, Repo, 
+- **Design Patterns:** [Factory] & [Repo].
 
 ---
 
@@ -31,10 +40,4 @@ This project is built with a focus on **Scalability** and **Clean Code** princip
 
 - **Internal Operations Suite:** A specialized module for team coordination, designed to streamline internal logistics and display team activities in a highly organized, structured format for better operational efficiency.
 
-
 ---
-
-## 📈 Development Overview
-
-This repository represents the **stable production version** of the SLT app. 
-> **Note:** The development cycle involved over **600+ commits** in a private environment, ensuring rigorous testing, security audits, and performance optimization before this public release.
